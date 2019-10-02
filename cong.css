@@ -1,0 +1,48 @@
+
+body{
+	background: url(image/des8.jpg);
+	background-size: cover;
+}
+
+
+a {
+	color: yellow;
+	font-family: tahoma, geneva, sans-serif;
+	margin-left: 30px;
+}
+
+.cong {
+	background: rgba(44, 62, 80, 0.7);
+	padding: 40px;
+	margin-top: 80px;
+	height: 200px;
+	margin-left: 180px;
+	margin: 0 auto;
+	margin-top: 120px;
+	width: 240px;
+}
+
+input[type=button] 
+{
+	border:none;
+	width: 190px;
+	background: white;
+	color: #000;
+	font-size: 16px;
+	line-height: 25px;
+	padding: 10px 0;
+	border-radius: 15px;
+	cursor: pointer;
+}
+
+input[type=button]:hover 
+{
+	color: #fff;
+	background-color: black;
+}
+
+h2 {
+	margin-top: 50px;
+	margin-left: 10px;
+}
+
